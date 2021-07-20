@@ -18,4 +18,4 @@ st9 - seat 9
 
 ### Description: Sectors and seats.
 
-[Description Sectors](https://github.com/Skadabr/metalist/blob/master/server/stadium/metalist.js)
+[Description Sectors](https://github.com/conanvster/metalistDocks/blob/main/docs/metalist.js)
